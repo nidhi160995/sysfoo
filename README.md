@@ -1,8 +1,3 @@
-This is a Sample Maven App.
-Test03
-Test04
-.
-.
-.
-.
+  This is a Sample Maven App.
+
  
